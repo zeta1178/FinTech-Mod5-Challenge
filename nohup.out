@@ -20,3 +20,9 @@
 [I 2022-07-06 03:02:50.552 ServerApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[I 2022-07-06 03:03:23.686 ServerApp] Kernel shutdown: e718c4f1-3bbb-4715-83e1-7e53527c3129
+[I 2022-07-06 03:03:23.794 ServerApp] EOF on FD 51; stopping reading
+[I 2022-07-06 03:03:23.899 ServerApp] Terminal 1 closed
+Websocket closed
+[I 2022-07-06 03:03:23.986 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-07-06 03:03:23.988 ServerApp] Shutting down 0 kernels
