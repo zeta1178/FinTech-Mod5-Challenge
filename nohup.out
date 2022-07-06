@@ -1,0 +1,22 @@
+[I 2022-07-06 03:00:30.489 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-06 03:00:30.678 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-06 03:00:30.708 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-07-06 03:00:30.713 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-06 03:00:30.713 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-06 03:00:30.715 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-06 03:00:30.718 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-06 03:00:30.718 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod5-Challenge
+[I 2022-07-06 03:00:30.718 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-06 03:00:30.718 ServerApp] http://localhost:8889/lab
+[I 2022-07-06 03:00:30.718 ServerApp]  or http://127.0.0.1:8889/lab
+[I 2022-07-06 03:00:30.718 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-06 03:00:34.965 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-06 03:00:35.126 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 03:00:35.530 ServerApp] Kernel started: e718c4f1-3bbb-4715-83e1-7e53527c3129
+[I 2022-07-06 03:02:35.359 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 03:02:35.362 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 03:02:46.017 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 03:02:46.019 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 03:02:50.552 ServerApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
