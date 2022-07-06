@@ -26,3 +26,73 @@ TermSocket.open: Opened 1
 Websocket closed
 [I 2022-07-06 03:03:23.986 ServerApp] Shutting down on /api/shutdown request.
 [I 2022-07-06 03:03:23.988 ServerApp] Shutting down 0 kernels
+[I 2022-07-06 11:14:54.352 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-07-06 11:14:54.568 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-06 11:14:54.604 LabApp] JupyterLab extension loaded from /Users/michaelcruz/opt/anaconda3/envs/dev/lib/python3.8/site-packages/jupyterlab
+[I 2022-07-06 11:14:54.604 LabApp] JupyterLab application directory is /Users/michaelcruz/opt/anaconda3/envs/dev/share/jupyter/lab
+[I 2022-07-06 11:14:54.606 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-06 11:14:54.609 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-06 11:14:54.610 ServerApp] Serving notebooks from local directory: /Users/michaelcruz/git/FinTech-Mod5-Challenge
+[I 2022-07-06 11:14:54.610 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-07-06 11:14:54.610 ServerApp] http://localhost:8888/lab
+[I 2022-07-06 11:14:54.610 ServerApp]  or http://127.0.0.1:8888/lab
+[I 2022-07-06 11:14:54.610 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2022-07-06 11:14:58.689 LabApp] Could not determine jupyterlab build status without nodejs
+TermSocket.open: 1
+[I 2022-07-06 11:15:01.656 ServerApp] New terminal with specified name: 1
+TermSocket.open: Opened 1
+[W 2022-07-06 11:15:01.847 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 11:15:02.103 ServerApp] Kernel started: 1b7c422d-2910-4100-896d-fc9fbf5dcf34
+[I 2022-07-06 11:15:20.146 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 11:15:20.150 ServerApp] Notebook financial-planner.ipynb is not trusted
+[W 2022-07-06 11:15:22.501 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 11:16:19.681 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 11:16:19.683 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:08:23.968 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:08:23.976 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:12:24.761 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:12:24.762 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:14:24.825 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:14:24.829 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:16:24.939 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:16:24.941 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:18:25.035 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:18:25.037 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:20:27.102 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:20:27.103 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:22:27.189 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:22:27.190 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:24:27.605 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:24:27.609 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:26:27.704 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:26:27.707 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:26:37.218 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:26:37.220 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:28:37.310 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:28:37.313 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:34:37.410 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:34:37.414 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:36:37.522 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:36:37.526 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:38:37.626 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:38:37.629 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:58:37.724 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:58:37.727 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:58:57.274 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:58:57.277 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 15:59:12.864 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 15:59:12.867 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 16:00:16.068 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 16:00:16.072 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 16:02:16.175 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 16:02:16.177 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 16:04:16.298 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 16:04:16.301 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 16:06:16.414 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 16:06:16.416 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 16:08:16.512 ServerApp] Saving file at /financial-planner.ipynb
+[W 2022-07-06 16:08:16.515 ServerApp] Notebook financial-planner.ipynb is not trusted
+[I 2022-07-06 16:10:16.627 ServerApp] Saving file at /financial-planner.ipynb
+[I 2022-07-06 16:12:16.748 ServerApp] Saving file at /financial-planner.ipynb
+[I 2022-07-06 16:18:17.873 ServerApp] Saving file at /financial-planner.ipynb
+[I 2022-07-06 16:18:29.613 ServerApp] Saving file at /financial-planner.ipynb
